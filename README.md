@@ -1,7 +1,7 @@
 # Array Query
 
 Retrieve a value from within an array using an XPATH-like string. This is useful if you want to write a simple DSL that
-consumes a web service.
+consumes a web service or something like that.
 
 ## Example
 
